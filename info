@@ -1,0 +1,150 @@
+{
+  "uuid": "556011397888b69973f3e3f07cfa282c",
+  "path": "Offline/test%202",
+  "name": "test 2",
+  "content": "some basic electronic components placing.",
+  "created_at": "2021-05-12 10:00:31",
+  "updated_at": "2022-02-03 13:20:17",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "cf20378200ffc0794f65e19da4ae6386",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e33cc1be9d5e4d929dda60b4eb023d72": 5,
+        "096b7c5d8a214cdd8a7d4dd295d76360": 1,
+        "361380a7edec45838dd4c73c4ac426bd": 1,
+        "b0248eb51e084227889f2cb84eab79c4": 1,
+        "24eeb2ceca08480b92b847b6a310acda": 3,
+        "3ec77201bbcd4ecd8722658d581a4e60": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          3,
+          "C0603",
+          "C1,C2,C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f187d3c25f9f43a29b67d3cfa364ee78",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "1N4007W",
+          5,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1,D2,D3,D4,D5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C328592",
+            "BOM_Manufacturer": "BLUE ROCKET",
+            "BOM_Manufacturer Part": "1N4007W",
+            "puuid": "8d946c7f61b247e5a163a1477fd9299f",
+            "uuid": "e33cc1be9d5e4d929dda60b4eb023d72"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x2",
+          2,
+          "HDR-F-2.54_1X2",
+          "H1,H2",
+          {
+            "BOM_Supplier Part": "C49661",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "36b1306a115341f4b4d9407fb34974e0",
+            "uuid": "3ec77201bbcd4ecd8722658d581a4e60"
+          }
+        ],
+        [
+          "TIP2955",
+          1,
+          "TO-247AC-3_L15.8-W5.0-P5.46-L",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C262991",
+            "BOM_Manufacturer": "STMicroelectronics",
+            "BOM_Manufacturer Part": "TIP2955",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "9a4555db25734821933b3717259d00b6",
+            "uuid": "096b7c5d8a214cdd8a7d4dd295d76360"
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R0603",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "7824",
+          1,
+          "TO252",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "6c4ba2dae4824c17b8da3e09711ad730",
+            "uuid": "361380a7edec45838dd4c73c4ac426bd"
+          }
+        ]
+      ],
+      "updateTime": 1643874611,
+      "createTime": 1620794984,
+      "histories": [],
+      "created_at": "2021-05-12 10:19:44",
+      "updated_at": "2022-02-03 13:20:11"
+    },
+    {
+      "uuid": "67eabb4e19569b444c0a72fdeae69861",
+      "puuid": "556011397888b69973f3e3f07cfa282c",
+      "title": "PCB_test 2",
+      "filename": "PCB_test 2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "36b1306a115341f4b4d9407fb34974e0": 2,
+        "f187d3c25f9f43a29b67d3cfa364ee78": 3,
+        "9a4555db25734821933b3717259d00b6": 1,
+        "6c4ba2dae4824c17b8da3e09711ad730": 1,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 1,
+        "8d946c7f61b247e5a163a1477fd9299f": 5
+      },
+      "BOM": [],
+      "updateTime": 1643874617,
+      "createTime": 1620795478,
+      "histories": [],
+      "created_at": "2021-05-12 10:27:58",
+      "updated_at": "2022-02-03 13:20:17"
+    }
+  ],
+  "sort": [],
+  "title": "test 2",
+  "foldername": "test 2",
+  "schfilename": "test 2.json",
+  "schfilemtime": 1643874611396
+}
